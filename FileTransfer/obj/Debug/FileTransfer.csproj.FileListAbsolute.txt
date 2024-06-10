@@ -1,0 +1,11 @@
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe.config
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\bin\Debug\FileTransfer.pdb
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\obj\Debug\FileTransfer.exe
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe.manifest
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\bin\Debug\FileTransfer.application
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\obj\Debug\FileTransfer.exe.manifest
+C:\Users\felip\source\repos\FileTransfer\FileTransfer\obj\Debug\FileTransfer.application
